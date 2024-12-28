@@ -1,0 +1,286 @@
+{
+  "heading": "Fiction",
+  "topics": [
+    {
+      "heading": "Fiction",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the setting of the story?",
+          "options": [
+            "A sunny meadow",
+            "A desolate moor",
+            "A crowded marketplace",
+            "A dense forest"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Who is the protagonist in the story?",
+          "options": [
+            "Sherlock Holmes",
+            "Dr. John Watson",
+            "The massive hound",
+            "The vendor"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "What type of fiction does this text represent?",
+          "options": [
+            "Historical fiction",
+            "Realistic fiction",
+            "Mystery fiction",
+            "Fantasy fiction"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "What role does Sherlock Holmes play in this excerpt?",
+          "options": [
+            "The antagonist",
+            "The bystander",
+            "The rescuer",
+            "The victim"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "Why does the hound retreat into the mist?",
+          "options": [
+            "It is frightened by Watson.",
+            "It was never truly there.",
+            "The fog becomes too thick.",
+            "Holmes reveals it as an illusion."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the theme of this story?",
+          "options": [
+            "The triumph of reason over fear",
+            "The unpredictability of nature",
+            "The loyalty of friendship",
+            "The importance of courage"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "What is the significance of Baskerville Hall in the story?",
+          "options": [
+            "It represents Watson’s destination.",
+            "It is where the hound lives.",
+            "It is where Holmes solves the mystery.",
+            "It is the source of the fog."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "How does Watson feel when he hears the growl?",
+          "options": [
+            "Excited",
+            "Paralyzed with fear",
+            "Overjoyed",
+            "Indifferent"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "The sentence “his coat billowing like the wings of a raven” serves to portray Holmes as:",
+          "options": [
+            "A fearful figure",
+            "A calm and steady presence",
+            "A dramatic and commanding figure",
+            "An unassuming character"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "What does the hound symbolise in this story?",
+          "options": [
+            "The danger of the unknown",
+            "The power of courage",
+            "The warmth of companionship",
+            "The beauty of nature"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following best describes Watson’s character in this excerpt?",
+          "options": [
+            "Foolhardy and reckless",
+            "Overconfident and careless",
+            "Brave but cautious",
+            "Calm and fearless"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "What makes the story a work of fiction?",
+          "options": [
+            "It is set in the past.",
+            "It involves made-up characters and events.",
+            "It is based on true events.",
+            "It contains detailed scientific explanations."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "What lesson can be drawn from Holmes’s final statement?",
+          "options": [
+            "Fear is necessary for survival.",
+            "Logic and reason can dispel fear.",
+            "Mysteries are meant to be feared.",
+            "Teamwork is the key to success."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Why does the author include the detail about Watson gripping his walking stick?",
+          "options": [
+            "To show his determination",
+            "To reveal his weakness",
+            "To emphasise his fear",
+            "To portray his youth"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "What role does the fog play in the story?",
+          "options": [
+            "It hides Baskerville Hall.",
+            "It enhances the mystery and suspense.",
+            "It represents Watson's confusion.",
+            "It creates a romantic atmosphere."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following would most likely be classified as realistic fiction?",
+          "options": [
+            "A story about a wizard learning new spells",
+            "A story about a young athlete training for the Olympics",
+            "A story set on a futuristic space station",
+            "A story about knights and castles in a mythical kingdom"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "How does the author portray the hound as menacing?",
+          "options": [
+            "By describing its size and growl",
+            "By showing it attacking Watson",
+            "By detailing its movements in the forest",
+            "By revealing it as harmless"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "If a book is set during World War II and includes fictional characters, what type of fiction is it?",
+          "options": [
+            "Historical Fiction",
+            "Fantasy",
+            "Science Fiction",
+            "Realistic Fiction"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "What is the turning point in the story?",
+          "options": [
+            "When Watson first hears the growl",
+            "When the hound appears from the fog",
+            "When Holmes explains the illusion",
+            "When Watson arrives at Baskerville Hall"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "What message does the story convey about human nature?",
+          "options": [
+            "Fear is inevitable in the face of the unknown.",
+            "Courage alone is enough to overcome challenges.",
+            "Rational thinking can dispel even the most terrifying illusions.",
+            "Survival depends on physical strength."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 21,
+          "question": "A story about astronauts colonising Mars would fall under which type of fiction?",
+          "options": [
+            "Realistic Fiction",
+            "Historical Fiction",
+            "Science Fiction",
+            "Fantasy"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 22,
+          "question": "If a tale features a young wizard discovering a secret magical school and fighting dark forces, it belongs to which type of fiction?",
+          "options": [
+            "Historical Fiction",
+            "Science Fiction",
+            "Fantasy",
+            "Realistic Fiction"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 23,
+          "question": "Which type of fiction includes alternate universes and magical spells?",
+          "options": [
+            "Realistic Fiction",
+            "Fantasy",
+            "Science Fiction",
+            "Historical Fiction"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 24,
+          "question": "A story about robots gaining human emotions and forming relationships would be an example of what type of fiction?",
+          "options": [
+            "Fantasy",
+            "Science Fiction",
+            "Historical Fiction",
+            "Realistic Fiction"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "question": "If a story is set during the American Revolution and follows a fictional young spy working for George Washington, what type of fiction is it?",
+          "options": [
+            "Science Fiction",
+            "Fantasy",
+            "Realistic Fiction",
+            "Historical Fiction"
+          ],
+          "answer": 3
+        }
+      ]
+      
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questions</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+  <script src="./questions.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.7.0/dist/confetti.browser.min.js"></script>
+
+</head>
+<body>
+  <!-- <audio id="cheers">
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio> -->
+  <!-- <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio> -->
+  <audio id="submit-sound" src="./assests/sounds/submit.mp3"></audio>
+  <header class="header">
+    <img src="./assests/logo/Logo.png" alt="Logo" class="logo">
+    <span><img src="./assests/logo/header.png" alt="Header" class="header-image"></span>
+  </header>
+  <main class="container">
+    <h1 id="heading" class="text-center"></h1>
+    <div id="buttonContainer" class="text-center"></div>
+    <div style="text-align: center; margin: 10px;">
+    <button class="modal-btn btn " data-toggle="modal" data-target="#storyModal">Click here to read story</button>
+  </div>
+    <div class="row maindiv">
+      <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 numdiv">
+        <p id="numdiv"></p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 imgdiv" id="picdiv">
+        <img id="math_ques" src="Math Question.jpg" class="img-responsive">
+      </div>
+      <div id="questiondiv" class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+        <div id="question"></div>
+        <br>
+        <div class="menu" id="head">
+          <ul id="options"></ul>
+        </div>
+        <button id="subbtn" class="btn btn-success" onclick="checkAnswer()">Submit Answer</button>
+        <button id="nextbtn" class="btn btn-primary" onclick="newques()" style="display:none">Next</button>
+        <p id="result"></p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal -->
+  <div id="storyModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">A Strange Encounter in the Moorlands (Inspired by Sir Arthur Conan Doyle’s style)
+          </h4>
+        </div>
+        <div class="modal-body">
+          <p>
+            The fog hung low over the desolate moor, curling around jagged stones and creeping through the tangled heather. Dr. John Watson found himself walking alone, his boots sinking slightly into the damp earth with every step. The stillness of the moor was unnerving, broken only by the occasional howl of the wind that seemed to carry whispers of something unseen. In the distance, the silhouette of Baskerville Hall loomed, its turrets piercing the ashen sky like sentinels guarding a dark secret. Watson pulled his coat tighter, the chill gnawing at his resolve as he trudged forward.
+            <br><br>
+Suddenly, a sound shattered the eerie silence—a low, guttural growl that sent shivers racing down his spine. Watson froze, his heart pounding like a war drum. He peered into the thick fog, his eyes straining to make sense of the shifting shadows. Then, out of the mist, a massive hound appeared. Its glowing eyes burned with an unnatural fire, and its snarling maw revealed sharp fangs that gleamed in the dim light. For a moment, Watson stood paralyzed, caught between terror and disbelief. “Is this some phantom of the moor?” he whispered to himself, gripping his walking stick as his sole weapon of defence.
+
+<br><br>Before the creature could pounce, the unmistakable voice of Sherlock Holmes called out, firm and commanding, “Stay your ground, Watson! It’s a trick—a mere illusion!” Emerging from the fog, Holmes approached swiftly, his coat billowing like the wings of a raven. The hound hesitated, then retreated into the shadows, its form melting into the mist as though it had never been. Watson turned to his friend, his voice trembling with both relief and curiosity. “Holmes, what manner of devilry was that?” Holmes’s sharp eyes gleamed with triumph. “A clever ruse, Watson, designed to instil fear. But fear is no match for the light of reason.” Together, they strode toward Baskerville Hall, their resolve strengthened, ready to unravel the mystery lurking in the heart of the moor.
+
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
